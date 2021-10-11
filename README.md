@@ -1,4 +1,4 @@
-# Nihongooo!
+# El Goog
 
 A Google interface featuring standard search, image search and advanced search. The app is live at <a href="https://el-goog.yndajas.co" target="_blank">el-goog.yndajas.co</a>.
 
