@@ -2,7 +2,7 @@ const injectHeader = (pageTitle) => {
   document.getElementsByTagName("header")[0].innerHTML = `
     <nav class="navbar navbar-expand-sm navbar-light">
     <div class="container">
-      <a class="navbar-brand" href="search.html"
+      <a class="navbar-brand" href="/"
         ><h1>
           <span class="red">E</span><span class="green">l</span>
           <span class="blue">G</span><span class="yellow">o</span
