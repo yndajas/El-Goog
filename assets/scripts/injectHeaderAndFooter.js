@@ -25,7 +25,7 @@ const injectHeader = (pageTitle) => {
           <li class="nav-item">
             <a class="nav-link${
               pageTitle === "Search" ? " active" : ""
-            }" href="search.html"
+            }" href="/"
               >Search</a
             >
           </li>
