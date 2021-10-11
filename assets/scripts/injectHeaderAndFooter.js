@@ -70,8 +70,7 @@ const injectFooter = () => {
 };
 
 const injectHeaderAndFooter = () => {
-  const filename = window.location.pathname.replace(/.*\//, "");
-  const pageTitle = `${filename[0].toUpperCase()}${filename.slice(1, -5)}`;
+  const pageTitle = document.title.slice(0, -10);
 
   injectHeader(pageTitle);
   injectFooter();
