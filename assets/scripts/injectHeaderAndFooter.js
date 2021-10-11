@@ -32,14 +32,14 @@ const injectHeader = (pageTitle) => {
           <li class="nav-item">
             <a class="nav-link${
               pageTitle === "Images" ? " active" : ""
-            }" href="images.html"
+            }" href="images"
               >Images</a
             >
           </li>
           <li class="nav-item">
             <a class="nav-link${
               pageTitle === "Advanced" ? " active" : ""
-            }" href="advanced.html"
+            }" href="advanced"
               >Advanced</a
             >
           </li>
