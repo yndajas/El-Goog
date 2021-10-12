@@ -1,6 +1,6 @@
 # El Goog
 
-A Google interface featuring standard search, image search and advanced search. The app is live at <a href="https://el-goog.yndajas.co" target="_blank">el-goog.yndajas.co</a>.
+A Google interface featuring standard search, image search and advanced search. The app is live at <a href="https://elgoog.yndajas.co" target="_blank">el-goog.yndajas.co</a>.
 
 This was originally made as a solution to 'Search' from CS50’s Web Programming with Python and JavaScript 2020 (project 0). Brief: https://cs50.harvard.edu/web/2020/projects/0/search
 
